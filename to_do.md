@@ -16,5 +16,6 @@
 
 ## Friday Shananagons
 
-1. Begin presentation
-2. W
+1. Begin presentation.
+3. Work in finishing train routes.
+4. Debuggggggg
