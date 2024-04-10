@@ -34,7 +34,7 @@ VALUE7	# Housing Occupancy Status | Occupied, 2023
 VALUE8	Median Household Income, 2023
 VALUE9	# Total Population, 2023
 
-The code for each of the objects is put into separate files. Our objects are as follows: Block_Group, City, Superblock, and Train.
+The code for all of the objects is in the file titled Public_Transit_System.ipynb. Our objects are as follows: Block_Group, City, Superblock, and Train.
 
 The City object simply defines the boundaries of the city & the confines in which we are designing our system. The Block_Group object is used to separate areas of the city into block groups based off of population, and the Superblock object takes a certain amount of block groups and creates a "Superblock" out of them, which is simply a a grouping of block groups that we can then place a node either in or around. Our Train object is used to connect the superblocks using the nodes we placed. All of this code is gathered and used in our Main_Project file.
 
